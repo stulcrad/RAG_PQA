@@ -1,0 +1,17 @@
+{"question": "Co zaznělo ve Sněmovně o kurzarbeitu?", "gold_ids": ["ParlaMint-CZ_2021-01-20-ps2017-079-02-007-013.u22"]}
+{"question": "Kdo mluvil o GDPR a ochraně osobních údajů?", "gold_ids": ["ParlaMint-CZ_2021-05-06-ps2017-098-11-009-527.u131"]}
+{"question": "Co poslanci říkali o jaderné elektrárně Dukovany?", "gold_ids": ["ParlaMint-CZ_2020-09-30-ps2017-058-06-002-100.u6"]}
+{"question": "Co bylo řečeno o dole Turów?", "gold_ids": ["ParlaMint-CZ_2022-02-22-ps2021-012-01-000-000.u8"]}
+{"question": "Co zaznělo o kotlíkových dotacích?", "gold_ids": ["ParlaMint-CZ_2019-10-23-ps2017-035-06-002-001.u91"]}
+{"question": "Co poslanci uvedli o chytré karanténě?", "gold_ids": ["ParlaMint-CZ_2020-10-01-ps2017-058-07-004-452.u14"]}
+{"question": "Diskutovala Sněmovna o těžbě lithia?", "gold_ids": ["ParlaMint-CZ_2017-01-19-ps2013-054-07-005-291.u2"]}
+{"question": "Co bylo řečeno o zdanění hazardu?", "gold_ids": ["ParlaMint-CZ_2019-10-18-ps2017-035-04-001-206.u11"]}
+{"question": "Co se ve Sněmovně říkalo o Národním plánu obnovy?", "gold_ids": ["ParlaMint-CZ_2020-10-01-ps2017-058-07-004-452.u14"]}
+{"question": "Jaké názory zazněly na migrační kvóty?", "gold_ids": ["ParlaMint-CZ_2016-03-10-ps2013-042-07-020-213.u38"]}
+{"question": "Co poslanci diskutovali ke kauze Čapí hnízdo?", "gold_ids": ["ParlaMint-CZ_2016-03-10-ps2013-042-07-023-224.u103", "ParlaMint-CZ_2017-09-06-ps2013-060-02-001-045.u114", "ParlaMint-CZ_2019-04-18-ps2017-028-03-017-218.u12"]}
+{"question": "Co zaznělo o strategii Digitální Česko?", "gold_ids": ["ParlaMint-CZ_2018-01-10-ps2017-005-01-001-001.u80", "ParlaMint-CZ_2022-02-18-ps2021-011-01-002-002.u153"]}
+{"question": "Co poslanci říkali o emisních povolenkách?", "gold_ids": ["ParlaMint-CZ_2022-09-01-ps2021-036-01-001-001.u16", "ParlaMint-CZ_2023-07-19-ps2021-071-05-000-000.u6"]}
+{"question": "Co bylo řečeno o kůrovcové kalamitě?", "gold_ids": ["ParlaMint-CZ_2019-03-06-ps2017-027-02-010-016.u30", "ParlaMint-CZ_2019-03-06-ps2017-027-02-010-016.u2"]}
+{"question": "Co zaznělo o programu IROP a evropských fondech?", "gold_ids": ["ParlaMint-CZ_2014-12-04-ps2013-023-03-021-135.u4", "ParlaMint-CZ_2022-02-18-ps2021-011-01-002-002.u153", "ParlaMint-CZ_2015-11-25-ps2013-036-02-001-005.u96"]}
+{"question": "Co říká Ivan Bartoš o strategii Digitální Česko?", "gold_ids": ["ParlaMint-CZ_2022-02-18-ps2021-011-01-002-002.u153"]}
+{"question": "Co říká Ondřej Profant o Národním plánu obnovy?", "gold_ids": ["ParlaMint-CZ_2020-10-01-ps2017-058-07-004-452.u14"]}

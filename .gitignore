@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.index/
+*.faiss
+*.pkl
+.pytest_cache/
+.ruff_cache/
+.vscode/
+ingest.log
+
+# Packaging artifacts
+*.egg-info/
+build/
+dist/
+
+# Ingest progress log
+ingest.log
